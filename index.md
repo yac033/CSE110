@@ -27,3 +27,9 @@ I want to creat something cool and maybe I want to creat something that can help
 
 Car I drive
 - [x] Ford Focus ST 
+### Countries I want to visit
+* Japan
+* Taiwan
+* Singapore
+* Thailand
+* Europe(all of them)
