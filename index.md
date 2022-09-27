@@ -7,7 +7,7 @@ HIIIIIIII! Nice to meet you my name is Yaohui you can call me Yahoo if you think
 <img src="https://imgur.com/Jy4Tmib.jpeg" width ="200" height="300">
 <img src="https://imgur.com/irCVVUY.jpeg"width ="200" height="300"> 
 
-[More picture of Benson](IMG_1334.heic)
+[More picture of Benson](IMG_1334.jpg)
 
 Benson's favorite quote 
 > "Meow meow meow meeeeowwwwwww" ("Give me fooood")
