@@ -10,4 +10,7 @@ Benson's favorite quote
 > "Meow meow meow meeeeowwwwwww" ("Give me fooood")
 
 ### As a programmer
-I want to creat something cool and maybe I want to creat something that can help with homeless cats :sob: maybe helpping them to get a forever home :heart:
+I want to creat something cool and maybe I want to creat something that can help with homeless cats :sob: maybe helpping them to get a forever home :heart: and so far the best program i ever wrote is
+```
+    cout << " Hello World";
+```
