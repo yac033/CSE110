@@ -1,9 +1,8 @@
 # Yaohui Chen
 ## Who am I?
-[Just want to know me as a programmer? click here](#as-a-programmer)
 ### As a person
 HIIIIIIII! Nice to meet you my name is Yaohui you can call me Yahoo if you think my name is too hard to pronounce I am a transfer student from Diablo Valley College [If you want to know where click here](https://goo.gl/maps/jyLzjg4CzM1ibfoTA) I am currently studying Computer enginnering in UCSD. I have a purrr baby:cat: his name is *Benson*. When I have some free time to myself I really enjoy exploring new **food** in the city :stuck_out_tongue:
-
+[Want to know more about me click here](#little-bit-more-about-me)
 <img src="https://imgur.com/Jy4Tmib.jpeg" width ="200" height="300">
 <img src="https://imgur.com/irCVVUY.jpeg"width ="200" height="300"> 
 
