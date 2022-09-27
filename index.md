@@ -19,3 +19,11 @@ I want to creat something cool and maybe I want to creat something that can help
         cout << "Hello World";   
     }
 ```
+## Little bit more about me
+### Cars I like
+1. Porsche 911
+2. Nissian GT-R
+3. Lexus LC 500
+
+Car I drive
+- [x] Ford Focus ST 
